@@ -4,7 +4,7 @@ A Java-based application demonstrating database connectivity and CRUD (Create, R
 
 ## 🚀 Overview
 
-This project demonstrates how to integrate a Java application with a relational database using Spring JDBC. It uses Spring's `JdbcTemplate` to simplify SQL query execution, database interactions, and exception handling.
+This project demonstrates how to integrate Java application with a relational database using Spring JDBC. It uses Spring's `JdbcTemplate` to simplify SQL query execution, database interactions, and exception handling.
 
 ## 🛠️ Technologies Used
 
